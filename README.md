@@ -1,7 +1,7 @@
-- 👋 Olá, Eu sou Ygor Gabriel e moro em SP e tenho 23 anos.
+- 👋 Olá, Eu sou Ygor Gabriel e moro em SP e tenho 24 anos.
 - 👀 Estou interessado em novos conhecimentos e desafios na área de tecnologia.
-- 🌱 Atualmente, estou aprendendo: C#, PHP, Java, JavaScript e SQL
-- 📫 Você pode entrar em contato comigo pelo instagram: @ygor1z ou e-mail: ygorgabriel199@hotmail.com
+- 🌱 Atualmente, estou aprendendo: PHP, Java e SQL
+- 📫 Você pode entrar em contato comigo pelo instagram: @ygor1z
 - 😄 Pronouns: Ele/Dele
 
 
