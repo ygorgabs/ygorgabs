@@ -2,7 +2,6 @@
 - 👀 Estou interessado em novos conhecimentos e desafios na área de tecnologia.
 - 🌱 Atualmente, estou aprendendo: PHP, Java e SQL
 - 📫 Você pode entrar em contato comigo pelo instagram: @ygor1z
-- 😄 Pronouns: Ele/Dele
 
 
 <!---
