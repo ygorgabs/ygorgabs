@@ -1,4 +1,4 @@
-<img width="100%" src="https://imgur.com/a/ABxWnEF"/>
+<img width="100%" src="https://i.imgur.com/VzVjAzh.png" />
 
 ## Oi, Eu sou Ygor Gabriel!
 ### Estudante Desenvolvimento de Sistemas
