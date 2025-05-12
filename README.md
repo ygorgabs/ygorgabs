@@ -1,7 +1,4 @@
-<img width="100%" src="https://i.imgur.com/VzVjAzh.png" />
-
-## Oi, Eu sou Ygor Gabriel!
-### Estudante Desenvolvimento de Sistemas
+![Header](./github-header-image.png)
 
 
 Tenho 24 anos e atualmente estou finalizando o curso técnico em Desenvolvimento de Sistemas na ETEC de São Paulo. Ao longo do curso, venho aprendendo linguagens como **Java**, **C#**, **PHP** e **SQL**, e desenvolvendo projetos práticos que reforçam meu interesse pela área de tecnologia.
