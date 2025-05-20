@@ -11,7 +11,7 @@ Sou apaixonado por tecnologia e, após a conclusão do curso técnico, pretendo 
 ### Tecnologias que utilizo
 <p >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cs,html,css,js,php,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=java,cs,php,androidstudio,html,css,js" />
   </a>
 </p>
 
