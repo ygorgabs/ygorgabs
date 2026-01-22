@@ -1,17 +1,15 @@
 ![Header](./github-header-image.png)
 
 
-Tenho 24 anos e atualmente estou finalizando o curso técnico em Desenvolvimento de Sistemas na ETEC de São Paulo. Ao longo do curso, venho aprendendo linguagens como **Java**, **C#**, **PHP** e **SQL**, e desenvolvendo projetos práticos que reforçam meu interesse pela área de tecnologia.
+Sou estudante de Análise e Desenvolvimento de Sistemas na FATEC São Paulo e formado em Técnico em Desenvolvimento de Sistemas pela ETEC de São Paulo. Ao longo do curso, venho aprendendo linguagens como **Java**, **C#**, **PHP** e **SQL**, e desenvolvendo projetos práticos que reforçam meu interesse pela área de tecnologia.
 
-Neste momento, estou trabalhando no meu **TCC**, que consiste em uma rede para **compartilhar experiências literárias** — um projeto que une programação e criatividade.
-
-Sou apaixonado por tecnologia e, após a conclusão do curso técnico, pretendo ingressar em uma **faculdade de Tecnologia da Informação** para continuar evoluindo na área.
+Sou entusiasta da tecnologia e estou sempre em busca de aprender mais, compartilhar experiências e construir conexões que contribuam para meu crescimento profissional.
 
 
 ### Tecnologias que utilizo
 <p >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cs,php,androidstudio,html,css,js" />
+    <img src="https://skillicons.dev/icons?i=java,androidstudio,cs,html,css,js" />
   </a>
 </p>
 
