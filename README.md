@@ -1,6 +1,6 @@
 # :technologist: Ygor Silva
 
-*`Desevolvedor Backend`*
+**`Desevolvedor Backend`**
 
 Sou Ygor Gabriel Silva, tenho 26 anos e sou natural de São Paulo. Me formei em Técnico em Desenvolvimento de Sistemas pela ETEC de São Paulo. Atualmente, estudo Análise e Desenvolvimento de Sistemas na FATEC São Paulo. Sou entusiasta da tecnologia e estou sempre em busca de aprender, compartilhar experiências e construir conexões que contribuam para meu crescimento profissional. Aqui no GitHub compartilho minhas atividades e projetos práticos desenvolvidos que reforçam meu interesse pela área de tecnologia.
 
